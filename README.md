@@ -138,7 +138,7 @@ Email: liuhao@berkeley.edu
 
 ## License
 
-This project is licensed under the ?? License.
+This project is licensed under the apache-2.0 License.
 
 ## Acknowledgments
 
