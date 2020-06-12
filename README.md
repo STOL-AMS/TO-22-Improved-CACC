@@ -142,7 +142,7 @@ This project is licensed under the apache-2.0 License.
 
 ## Acknowledgments
 
-This research is supported by Federal Highway Administration  (FHWA) Office of Operations Research and Development HRDO program under the project entitled Developing Analysis, Modeling, and Simulation (AMS) Tools for Connected Automated Vehicle Applications (Project Number: DTFH61-12-D-00030-0022).
+This research is supported by Federal Highway Administration  (FHWA) Office of Operations Research and Development HRDO program under the project entitled Developing Analysis, Modeling, and Simulation (AMS) Tools for Connected Automated Vehicle Applications (Project Number: DTFH61-16-D-00030-0022).
 
 ## Code.gov Registration Info
 
